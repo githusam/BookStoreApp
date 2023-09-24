@@ -1,1 +1,15 @@
-test;123.0
+The Tales of the Kassab;150.0
+Moby-Dick;60.0
+Bones;20.0
+To Kill a Mockingbird;50.0
+The Great Gatsby;22.5
+Godzilla;31.25
+As I Lay Dying;12.2
+A Farewell to Arms;23.35
+The Adventures of Huckleberry Finn;13.0
+And Then There Were None;30.0
+The Devil Wears Prada;42.0
+East of Eden;35.0
+War and Peace;13.0
+The Sun Also Rises;65.0
+Brave New World;16.6
